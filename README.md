@@ -9,6 +9,8 @@
 
 <p align="center">
 <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/tag/XXCoreRangerX/astro-kitty?color=%2328293D&logo=github&logoColor=%23ECEFF4&style=flat-square&colorA=1B1C1E">
+
+<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/xxcorerangerx/astro-kitty?color=%2328293D&logo=github&logoColor=%23ECEFF4&style=flat-square&colorA=1B1C1E">
 </p>
 
 ---
