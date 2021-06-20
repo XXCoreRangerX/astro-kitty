@@ -4,7 +4,7 @@
 
 <h1 align="center">Astro kitty theme</h1>
 
-<h4 align="center">A clean, elegant kitty terminal theme, representing the minimallistic idea of the universe.</h4>
+<h4 align="center">A clean, elegant kitty terminal theme, representing the minimalistic idea of the universe.</h4>
 <h4 align="center">The theme consists of 23, carefully selected colors.</h4>
 
 <p align="center">
