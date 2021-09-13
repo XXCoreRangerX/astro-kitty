@@ -13,6 +13,8 @@
 <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/xxcorerangerx/astro-kitty?color=%2328293D&logo=github&logoColor=%23ECEFF4&style=flat-square&colorA=1B1C1E">
 </p>
 
+<p align="center"><img alt="Astro Xresources" src="https://user-images.githubusercontent.com/61242573/122646060-a8bac000-d11d-11eb-95f3-c3f1a7725fb3.png"></p>
+
 ---
 
 ## Installation
